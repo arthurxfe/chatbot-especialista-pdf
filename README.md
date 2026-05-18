@@ -5,6 +5,7 @@ Este projeto implementa um chatbot inteligente capaz de responder perguntas com 
 
 O sistema utiliza LLMs para interpretar documentos e responder perguntas usando grounding, evitando respostas inventadas.
 
+para executar vc precisa criar uma chave no groq API
 ---
 
 ## Tecnologias Utilizadas
